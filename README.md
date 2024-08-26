@@ -1,0 +1,1 @@
+# go-templ-nix-example
