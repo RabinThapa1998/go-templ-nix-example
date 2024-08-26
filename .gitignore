@@ -3,8 +3,7 @@ tmp
 bin
 
 app_data.db
-**/*_templ.go
-
+https://gist.github.com/RabinThapa1998/88a6d7a740bd4c47cb24579f14d0513d
 tailwind/node_modules
 ./app
 app
