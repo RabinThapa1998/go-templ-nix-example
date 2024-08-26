@@ -1,0 +1,11 @@
+
+tmp
+bin
+
+app_data.db
+**/*_templ.go
+
+tailwind/node_modules
+./app
+app
+.env
